@@ -1,1 +1,51 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="!7R*.?:%t1=z/0zQ.ek^" x="0" y="0"></block></xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="Rx4HE^/B^w4^4:sDP.hs">mySprite</variable><variable type="KIND_SpriteKind" id="IozcjLT[}6T]*pB0*AtO">Player</variable><variable type="KIND_SpriteKind" id="-XLn4~1E;WVL),pZS~mR">Projectile</variable><variable type="KIND_SpriteKind" id="nj)2aTr!J44TsAi3;H+,">Food</variable><variable type="KIND_SpriteKind" id="?7`V;`qOZ8Ef;`z{yt@,">Enemy</variable></variables><block type="pxt-on-start" id="!7R*.?:%t1=z/0zQ.ek^" x="0" y="0"><statement name="HANDLER"><block type="variables_set" id="o:rWK3`|x;V_#j,T!3//"><field name="VAR" id="Rx4HE^/B^w4^4:sDP.hs">mySprite</field><value name="VALUE"><shadow xmlns="http://www.w3.org/1999/xhtml" type="math_number"><field name="NUM">0</field></shadow><block type="spritescreate" id="s@Xo*.:m(6[TcAPKCGJ6"><value name="img"><shadow type="screen_image_picker" id="9y=J6(iBZEN[b[H/0Kl*"><field name="img">img`
+...........ccccc66666...........
+........ccc4444444444666........
+......cc444444444bb4444466......
+.....cb4444bb4444b5b444444b.....
+....eb4444b5b44444b44444444b....
+...ebb44444b4444444444b444446...
+..eb6bb444444444bb444b5b444446..
+..e6bb5b44444444b5b444b44bb44e..
+.e66b4b4444444444b4444444b5b44e.
+.e6bb444444444444444444444bb44e.
+eb66b44444bb444444444444444444be
+eb66bb444b5b44444444bb44444444be
+fb666b444bb444444444b5b4444444bf
+fcb666b44444444444444bb444444bcf
+.fbb6666b44444444444444444444bf.
+.efbb66666bb4444444444444444bfe.
+.86fcbb66666bbb44444444444bcc688
+8772effcbbbbbbbbbbbbbbbbcfc22778
+87722222cccccccccccccccc22226678
+f866622222222222222222222276686f
+fef866677766667777776667777fffef
+fbff877768f86777777666776fffffbf
+fbeffeefffeff7766688effeeeefeb6f
+f6bfffeffeeeeeeeeeeeeefeeeeebb6e
+f66ddfffffeeeffeffeeeeeffeedb46e
+.c66ddd4effffffeeeeeffff4ddb46e.
+.fc6b4dddddddddddddddddddb444ee.
+..ff6bb444444444444444444444ee..
+....ffbbbb4444444444444444ee....
+......ffebbbbbb44444444eee......
+.........fffffffcccccee.........
+................................
+`</field><data>{"commentRefs":[],"fieldData":{"img":"9y=J6(iBZEN[b[H/0Kl*"}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="}bo#nTnaq=~ukT4~8~df"><field name="MEMBER">Player</field></shadow></value></block></value></block></statement></block><block type="spritescreatenoset" id=")Jf{IMw-cD$LiiR4c!vb" disabled="true" x="330" y="290"><value name="img"><shadow type="screen_image_picker" id="X5z+QFst6POsJL9X=JUm" disabled="true"><field name="img">img`
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+`</field><data>{"commentRefs":[],"fieldData":{"img":"X5z+QFst6POsJL9X=JUm"}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="-~dpIp7|~zcbEZkQO*k_" disabled="true"><field name="MEMBER">Player</field></shadow></value></block></xml>
